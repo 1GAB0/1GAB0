@@ -17,9 +17,9 @@
 | Hr  |          **L**          |          **M**          |          **Mi**         |          **J**          |          **V**          |
 |-----|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | 1pm |       ING.SOFTWARE      |       ING.SOFTWARE      |       ING.SOFTWARE      |       ING.SOFTWARE      |       ING.SOFTWARE      |
-| 2pm |      LENG INTERFAZ      |      LENG INTERFAZ      |      LENG INTERFAZ      |      LENG INTERFAZ      |            |
+| 2pm |        SIMULACION       |        SIMULACION       |        SIMULACION       |        SIMULACION       |            |
 | 3pm |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |
-| 4pm |        SIMULACION       |        SIMULACION       |        SIMULACION       |        SIMULACION       |        SIMULACION       |
+| 4pm |     LENG INTERFAZ       |     LENG INTERFAZ       |     LENG INTERFAZ       |     LENG INTERFAZ       |            |            |
 | 5pm | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I |
 | 6pm |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |
 

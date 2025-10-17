@@ -13,6 +13,7 @@
 - 📫 How to reach me: ⚡Gabo2000src#8970⚡ on Discord
 
   ⚡
+<!--
   
 | Hr  |          **L**          |          **M**          |          **Mi**         |          **J**          |          **V**          |
 |-----|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
@@ -22,6 +23,8 @@
 | 4pm |     LENG INTERFAZ       |     LENG INTERFAZ       |     LENG INTERFAZ       |     LENG INTERFAZ       |            |            |
 | 5pm | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I | Lenguajes y Automatas I |
 | 6pm |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |  Admin de Base de Datos |
+
+-->
 
   
 
